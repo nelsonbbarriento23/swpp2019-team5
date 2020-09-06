@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "coveralls": "^3.0.7",
+    "coveralls": "^3.1.0",
     "test": "^0.6.0"
   }
 }
